@@ -12,7 +12,8 @@ as a git submodule (`engine\`). No emulator, no virtual machine.
 ## Status
 
 The engine implements every feature of the original 7th Level Runtime Player, and the port starts from
-`TCHISPC.BIN`. Chiseler has not been compared with the original game yet (only Upsy Daisy has been, screen by
+`TCHISPC.BIN`. The Chiseler minigame is playable (engine `6d759fc` fixed the gargoyles' heads drawn
+behind their bodies and the pigeon stuck on a brick). Chiseler has not been fully compared with the original game yet (only Upsy Daisy has been, screen by
 screen), so differences may remain. See the engine repository for the general status and the
 known differences.
 
