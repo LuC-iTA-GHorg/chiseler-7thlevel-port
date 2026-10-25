@@ -50,6 +50,9 @@ If you cloned without `--recursive`: `git submodule update --init`.
 
 Start `build\chiseler_launcher.exe` (settings, then "Start"), or `build\chiseler.exe`. Options,
 keys and the `chiseler.ini` settings are described in the engine's README.
+In full screen on a widescreen monitor the picture keeps the original 4:3 with black bars;
+choosing "Stretch to fill" under "Aspect ratio" in the launcher (`Aspect=stretch` in
+`chiseler.ini`) fills the screen instead.
 
 ## License
 
